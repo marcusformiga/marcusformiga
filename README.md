@@ -1,7 +1,7 @@
 ### Olá a todos, bem vindos ao meu perfil.
 - Comecei a estudar programação a 1 ano, meu foco atual é javascript, tenho estudado para me tornar um desenvolvedor backend, ja fiz alguns pequenos projetos, para praticar alguns conceitos aprendidos nos cursos que venho fazendo para adquirir experiência.
-- 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor backend nodejs ou desenvolvedor frontend react, mas tenho preferencia pelo backend
-- 🌱 Atualmente eu estou estudando typescript, nodejs, react, banco de dados (sql e nosql), testes automatizados (foco em testes unitarios)
+- 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor backend nodejs ou desenvolvedor backend java
+- 🌱 Atualmente eu estou estudando java, typescript, nodejs,banco de dados (sql e nosql), testes automatizados (foco em testes unitarios)
 - Para entrar em contato comigo :
 - https://www.linkedin.com/in/marcusformiga/
 - 
@@ -18,6 +18,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/java-original.svg" />
+
   
   
 </div>
