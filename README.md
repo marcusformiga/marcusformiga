@@ -1,6 +1,7 @@
 ### Olá a todos, bem vindos ao meu perfil.
 - tenho estudado para me tornar um desenvolvedor backend, ja fiz alguns projetos para praticar alguns conceitos aprendidos nos cursos que venho fazendo para adquirir experiência;
 - Minha stack de trabalho atual em nodejs é utilizando express/typescript/postgres e com java utilizo spring (spring boot, spring data, spring security etc);
+- Atuei como desenvolvedor backend junior em uma empresa de consultoria de software por dois meses e la atuei com nodejs e express, fui responsavel por desenvolver APISREST. 
 - 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor backend nodejs ou desenvolvedor backend java;
 - 🌱 Atualmente eu estou estudando java, typescript, nodejs,banco de dados (sql e nosql), testes automatizados (foco em testes unitarios);
 - Para entrar em contato comigo :
