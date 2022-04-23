@@ -1,8 +1,6 @@
 ### Olá a todos, bem vindos ao meu perfil.
 - Atualmente estou trabalhando na empresa capgemini como analista de soluções customizadas I;
-- Minha stack de trabalho atual em nodejs é utilizando express/typescript/postgres e com java utilizo spring (spring boot, spring data, spring security etc);
-- Atuei como desenvolvedor backend junior em uma empresa de consultoria de software por dois meses e la atuei com nodejs e express, fui responsavel por desenvolver APISREST. 
-- 🌱 Atualmente eu estou estudando java, typescript, nodejs,banco de dados (sql e nosql), testes automatizados (foco em testes unitarios);
+- 🌱 Atualmente eu estou estudando java (foco no framework spring e aquilo que esta em volta dele), typescript, nodejs,banco de dados (sql e nosql), testes automatizados (foco em testes unitarios);
 - Para entrar em contato comigo :
 - https://www.linkedin.com/in/marcusformiga/
 - 
